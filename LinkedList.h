@@ -4,7 +4,6 @@
 #include <iostream>
 using namespace std;
 
-//LinkedList Node
 class Node{
 	public:
 		//데이터를 저장할 변수
